@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I'm currently learning fullstack web developement<br>& looking forword to upskill myself .<br>
+I'm currently learning fullstack web developement<br>& looking forward to upskill myself .<br>
 
 
 ## 🌐 Socials:
